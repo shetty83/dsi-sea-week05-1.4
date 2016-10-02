@@ -38,5 +38,4 @@ Can you find some other industry examples where demographic data could be used t
 #### Starter code
 
 [Starter Code](./code/starter-code/starter-code-1_4.ipynb)
-> [Solution Code](./code/solution-code/solution-code-1_4.ipynb)
 
